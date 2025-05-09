@@ -1,6 +1,8 @@
 # ptmixed
 Poisson-Tweedie generalized linear mixed model Use ptmixed With (In) R Software
 
+https://www.youtube.com/watch?v=awOPs9t4zJ0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
